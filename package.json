@@ -1,0 +1,17 @@
+{
+  "name": "evershopqaut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hendrawwan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "cypress-plugin-stripe-elements": "^1.0.2",
+    "cypress-xpath": "^2.0.1",
+    "faker": "^5.5.3"
+  }
+}
